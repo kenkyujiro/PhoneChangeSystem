@@ -28,12 +28,9 @@ This system does not work on anything other than Linux.
 
 # Author
 
-作成情報を列挙する
-
 * yukihotta(One of a group of four)
-* yukihotta2628@outlook.jp
+* kenkyujiro0229@outlook.jp
 
 # License
-ライセンスを明示する
 
 "PhoneChangeSystem" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
