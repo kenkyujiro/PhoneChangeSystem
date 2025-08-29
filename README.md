@@ -28,7 +28,7 @@ This system does not work on anything other than Linux.
 
 # Author
 
-* yukihotta(One of a group of four)
+* kenkyujiro(One of a group of four)
 * kenkyujiro0229@outlook.jp
 
 # License
